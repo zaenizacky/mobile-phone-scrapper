@@ -13,5 +13,5 @@ To Run this project run
   go run main.go
 ```
 
-The result CSV will be in products.csv file on the root folder
+Wait Until the scrapping process done. The result CSV will be in products.csv file on the root folder
 
